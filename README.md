@@ -62,3 +62,4 @@
 
 ## Примерный вид
 
+![Image alt](https://github.com/kiselevich-stas/test-abol/blob/main/image.png?raw=true)
